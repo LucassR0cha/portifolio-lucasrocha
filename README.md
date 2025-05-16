@@ -1,7 +1,7 @@
 # Lucas Rocha — Estudante de ADS | Estagiário em Desenvolvimento de Software
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Uberaba, MG | 📧 lucascaixeta99@gmail.com  
+📍 Uberaba, MG | 📧 lucascaixeta98@gmail.com  
 🧠 Interesse em Desenvolvimento Web, Lógica de Programação e Automação de Processos
 
 ---
