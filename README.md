@@ -1,26 +1,34 @@
-# Lucas Rocha – Estudante de ADS | Estagiário de Desenvolvimento
+# Lucas Rocha — Estudante de ADS | Estagiário em Desenvolvimento de Software
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📍 Uberaba, MG | 📧 lucascaixeta99@gmail.com  
-🧠 Foco em Desenvolvimento Web, Lógica de Programação e Automação
-
-## 🚀 Tecnologias que uso
-- Front-end: HTML5, CSS3, JavaScript, Vue.js, React.js  
-- Back-end: Java, Node.js, API REST  
-- Banco de Dados: SQL Server, Prisma ORM  
-- Ferramentas: Git, GitHub, VS Code
-
-## 🧩 Projetos em Destaque
-
-### 🖼 Gerador de Landing Pages Internas
-Sistema interno criado durante meu estágio para automatizar campanhas da empresa com HTML dinâmico e envio de páginas personalizadas.
-
-### ✉️ Sistema de Envio Automático de Mensagens
-Automatização de comunicação interna e externa via sistema web.
-
-## 📚 Cursos e Certificados
-Disponível no currículo. Mais projetos e estudos em breve!
+🧠 Interesse em Desenvolvimento Web, Lógica de Programação e Automação de Processos
 
 ---
 
-🧩 Repositório atualizado com projetos reais, em aprendizado contínuo.
+## 🚀 Tecnologias que utilizo
+
+- **Front-end**: HTML5, CSS3, JavaScript, Vue.js, React.js  
+- **Back-end**: Java, Node.js, API REST  
+- **Banco de Dados**: SQL Server, Prisma ORM  
+- **Ferramentas**: Git, GitHub, Visual Studio Code
+
+---
+
+## 🧩 Projetos em Destaque
+
+### 🖼 Gerador de Landing Pages para Campanhas
+Sistema desenvolvido durante o estágio para facilitar a criação de páginas HTML personalizadas para campanhas de marketing da empresa.
+
+### ✉️ Sistema de Envio Automatizado de Mensagens
+Projeto voltado à automação da comunicação interna e externa, integrando regras de negócio e banco de dados.
+
+---
+
+## 📚 Cursos e Certificações
+
+Os principais cursos e certificações estão listados no meu currículo. Novos projetos e atualizações em breve!
+
+---
+
+🔄 Este repositório é atualizado com projetos reais desenvolvidos durante meus estudos e estágio. Estou sempre buscando aprender e evoluir como desenvolvedor Full Stack.
